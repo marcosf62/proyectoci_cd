@@ -1,0 +1,16 @@
+{
+  "name": "proyectoci_cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  },
+  "scripts": {
+  "test": "jest"
+  }
+
+}
